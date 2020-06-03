@@ -1,0 +1,474 @@
+
+/*==============================================
+                    Theme Color 
+============================================= */
+.color_pnnel_box {
+  background: #2c3e50 none repeat scroll 0 0;
+  height: 100px;
+  left: -150px;
+  position: fixed;
+  top: 200px;
+  width: 150px;
+  z-index: 11;
+    border-radius: 0 2px 2px 0;
+}
+.color_pnale {
+  padding: 10px;
+  text-align: center;
+}
+.color_pnale span {
+  border-radius: 50%;
+  cursor: pointer;
+  display: inline-block;
+  height: 30px;
+  margin: 5px;
+  text-align: center;
+  width: 30px;
+}
+.pnale_button {
+  border-radius: 2px;
+  color: #ffc107;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 25px;
+  left: 101%;
+  padding: 4px 5px;
+  position: absolute;
+  top: 0;
+}
+.color_pnale span.color_default{
+    background: #49a2e7;
+}
+.color_pnale span.color_yellow{
+    background: #FFC107;
+}
+.color_pnale span.color_green{
+    background: #2ecc71;
+}
+.color_pnale span.color_red{
+    background: #e74c3c;
+}
+.color_pnale span.color_blue{
+    background: #9b59b6;
+}
+.color_pnale span.color_offblue{ 
+    background: #1abc9c;
+}
+
+ 
+
+/*
+   Yello Color Theme
+========================================= */
+/*  Background Color */
+ 
+.color_yellow .header-bgnone,
+.color_yellow .btn.btn-primary.solid,
+.color_yellow .pricing-title,
+.color_yellow .img-hexagon,
+.color_yellow .isotope-nav ul a.active, .isotope-nav ul a:hover,
+.color_yellow .pricing-table.recommended .pricing-title,
+.color_yellow .table-list li span.unlimited,
+.color_yellow .table-buy .pricing-action,
+.color_yellow .testimonial-slide.owl-theme .owl-controls .owl-page.active span,
+.color_yellow button.btn-send ,
+ 
+  
+.color_yellow .single_service:hover,
+.color_yellow #main-slide .carousel-indicators li.active, #main-slide .carousel-indicators li:hover
+{
+	background:#FFC107;
+	 
+}
+ 
+ 
+/** font color **/
+
+.color_yellow .about_details h2,
+.color_yellow .about_details h3 span,
+.color_yellow .object h2,
+.color_yellow .single_service i, 
+.color_yellow .testimonial-slide .testimonial-text:before,
+.color_yellow .testimonial-slide .testimonial-text:after,
+.color_yellow .post-meta a:hover,
+.color_yellow .info_icon i,
+.color_yellow .team_phone h4,    
+.color_yellow  .post-meta a, 
+.color_yellow  ul.navbar-nav > li.active > a,
+.color_yellow  .singel_team:hover .team_title h2
+ 
+{
+  color:#FFC107;
+}
+ 
+ 
+.color_yellow .single_service:hover i,
+.color_yellow .header-bgnone ul.navbar-nav > li:hover > a, .header-bgnone ul.navbar-nav > li.active > a
+ 
+{
+  color:#fff;
+}
+ 
+ 
+/*** border color **/
+.color_yellow .isotope-nav ul li a,
+.color_yellow .single_service i,
+.color_yellow .singel_team:hover,
+.color_yellow .singel_team:hover .team_title h2,
+.color_yellow .singel_team:hover img,
+.color_yellow .info_icon i,
+.color_yellow .about_img.ver-2,
+.color_yellow .copy_right,
+.color_yellow .singel_team.single_img_V2:hover .img-hexagon
+ 
+{
+	border-color:#FFC107;
+}
+ 
+ 
+ 
+.color_yellow .single_service:hover i,
+.color_yellow .single_service i:hover,
+.color_yellow .btn.btn-primary.solid,
+.color_yellow .img-hexagon:hover,
+.color_yellow .singel_team.single_img_V2:hover img
+
+{
+	border-color:#fff;
+}
+
+
+
+
+
+
+
+
+
+/*
+   Green Color Theme
+========================================= */
+/*  Background Color */
+ 
+.color_green .header-bgnone,
+.color_green .btn.btn-primary.solid,
+.color_green .pricing-title,
+.color_green .img-hexagon,
+.color_green .isotope-nav ul a.active, .isotope-nav ul a:hover,
+.color_green .pricing-table.recommended .pricing-title,
+.color_green .table-list li span.unlimited,
+.color_green .table-buy .pricing-action,
+.color_green .testimonial-slide.owl-theme .owl-controls .owl-page.active span,
+.color_green button.btn-send ,
+ 
+  
+.color_green .single_service:hover,
+.color_green #main-slide .carousel-indicators li.active, #main-slide .carousel-indicators li:hover
+{
+	background:#2ecc71;
+	 
+}
+ 
+ 
+/** font color **/
+
+.color_green .about_details h2,
+.color_green .about_details h3 span,
+.color_green .object h2,
+.color_green .single_service i,
+.color_green .testimonial-slide .testimonial-text:before,
+.color_green .testimonial-slide .testimonial-text:after,
+.color_green .post-meta a:hover,
+.color_green .info_icon i,
+.color_green .team_phone h4,    
+.color_green  .post-meta a, 
+.color_green  ul.navbar-nav > li.active > a,
+.color_green  .singel_team:hover .team_title h2
+ 
+{
+  color:#2ecc71;
+}
+ 
+ 
+.color_green .single_service:hover i,
+.color_green .header-bgnone ul.navbar-nav > li:hover > a, .header-bgnone ul.navbar-nav > li.active > a
+ 
+{
+  color:#fff;
+}
+ 
+ 
+/*** border color **/
+.color_green .isotope-nav ul li a,
+.color_green .single_service i,
+.color_green .singel_team:hover,
+.color_green .singel_team:hover .team_title h2,
+.color_green .singel_team:hover img,
+.color_green .info_icon i,
+.color_green .about_img.ver-2,
+.color_green .copy_right,
+.color_green .copy_right,
+.color_green .singel_team.single_img_V2:hover .img-hexagon
+ 
+{
+	border-color:#2ecc71;
+}
+ 
+.color_green .single_service:hover i,
+.color_green .single_service i:hover,
+.color_green .btn.btn-primary.solid,
+.color_green .img-hexagon:hover,
+.color_green .singel_team.single_img_V2:hover img
+{
+	border-color:#fff;
+}
+ 
+ 
+ 
+ 
+/*
+   Red Color Theme
+========================================= */
+/*  Background Color */
+ 
+.color_red .header-bgnone,
+.color_red .btn.btn-primary.solid,
+.color_red .pricing-title,
+.color_red .img-hexagon,
+.color_red .isotope-nav ul a.active, .isotope-nav ul a:hover,
+.color_red .pricing-table.recommended .pricing-title,
+.color_red .table-list li span.unlimited,
+.color_red .table-buy .pricing-action,
+.color_red .testimonial-slide.owl-theme .owl-controls .owl-page.active span,
+.color_red button.btn-send ,
+ 
+  
+.color_red .single_service:hover,
+.color_red #main-slide .carousel-indicators li.active, #main-slide .carousel-indicators li:hover
+{
+	background:#e74c3c;
+	 
+}
+ 
+ 
+/** font color **/
+
+.color_red .about_details h2,
+.color_red .about_details h3 span,
+.color_red .object h2,
+.color_red .single_service i,
+.color_red .testimonial-slide .testimonial-text:before,
+.color_red .testimonial-slide .testimonial-text:after,
+.color_red .post-meta a:hover,
+.color_red .info_icon i,
+.color_red .team_phone h4,    
+.color_red  .post-meta a, 
+.color_red  ul.navbar-nav > li.active > a,
+.color_red  .singel_team:hover .team_title h2
+ 
+{
+  color:#e74c3c;
+}
+ 
+ 
+.color_red .single_service:hover i,
+.color_red .header-bgnone ul.navbar-nav > li:hover > a, .header-bgnone ul.navbar-nav > li.active > a
+ 
+{
+  color:#fff;
+}
+ 
+ 
+/*** border color **/
+.color_red .isotope-nav ul li a,
+.color_red .single_service i,
+.color_red .singel_team:hover,
+.color_red .singel_team:hover .team_title h2,
+.color_red .singel_team:hover img,
+.color_red .info_icon i,
+.color_red .about_img.ver-2,
+.color_red .copy_right,
+.color_red .copy_right,
+.color_red .singel_team.single_img_V2:hover .img-hexagon
+ 
+{
+	border-color:#e74c3c;
+}
+ 
+.color_red .single_service:hover i,
+.color_red .single_service i:hover,
+.color_red .btn.btn-primary.solid,
+.color_red .img-hexagon:hover,
+.color_red .singel_team.single_img_V2:hover img
+{
+	border-color:#fff;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ /*
+   Blue Color Theme
+========================================= */
+/*  Background Color */
+ 
+.color_blue .header-bgnone,
+.color_blue .btn.btn-primary.solid,
+.color_blue .pricing-title,
+.color_blue .img-hexagon,
+.color_blue .isotope-nav ul a.active, .isotope-nav ul a:hover,
+.color_blue .pricing-table.recommended .pricing-title,
+.color_blue .table-list li span.unlimited,
+.color_blue .table-buy .pricing-action,
+.color_blue .testimonial-slide.owl-theme .owl-controls .owl-page.active span,
+.color_blue button.btn-send ,
+ 
+  
+.color_blue .single_service:hover,
+.color_blue #main-slide .carousel-indicators li.active, #main-slide .carousel-indicators li:hover
+{
+	background:#9b59b6;
+	 
+}
+ 
+ 
+/** font color **/
+
+.color_blue .about_details h2,
+.color_blue .about_details h3 span,
+.color_blue .object h2,
+.color_blue .single_service i,
+.color_blue .testimonial-slide .testimonial-text:before,
+.color_blue .testimonial-slide .testimonial-text:after,
+.color_blue .post-meta a:hover,
+.color_blue .info_icon i,
+.color_blue .team_phone h4,    
+.color_blue  .post-meta a, 
+.color_blue  ul.navbar-nav > li.active > a,
+.color_blue  .singel_team:hover .team_title h2
+ 
+{
+  color:#9b59b6;
+}
+ 
+ 
+.color_blue .single_service:hover i,
+.color_blue .header-bgnone ul.navbar-nav > li:hover > a, .header-bgnone ul.navbar-nav > li.active > a
+ 
+{
+  color:#fff;
+}
+ 
+ 
+/*** border color **/
+.color_blue .isotope-nav ul li a,
+.color_blue .single_service i,
+.color_blue .singel_team:hover,
+.color_blue .singel_team:hover .team_title h2,
+.color_blue .singel_team:hover img,
+.color_blue .info_icon i,
+.color_blue .about_img.ver-2,
+.color_blue .copy_right,
+.color_blue .copy_right,
+.color_blue .singel_team.single_img_V2:hover .img-hexagon
+ 
+{
+	border-color:#9b59b6;
+}
+ 
+.color_blue .single_service:hover i, 
+.color_blue .single_service i:hover,
+.color_blue .btn.btn-primary.solid,
+.color_blue .img-hexagon:hover,
+.color_blue .singel_team.single_img_V2:hover img
+{
+	border-color:#fff;
+}
+ 
+  
+ /*
+   Off blue Color Theme
+========================================= */
+/*  Background Color */
+ 
+.color_offblue .header-bgnone,
+.color_offblue .btn.btn-primary.solid,
+.color_offblue .pricing-title,
+.color_offblue .img-hexagon,
+.color_offblue .isotope-nav ul a.active, .isotope-nav ul a:hover,
+.color_offblue .pricing-table.recommended .pricing-title,
+.color_offblue .table-list li span.unlimited,
+.color_offblue .table-buy .pricing-action,
+.color_offblue .testimonial-slide.owl-theme .owl-controls .owl-page.active span,
+.color_offblue button.btn-send ,
+ 
+  
+.color_offblue .single_service:hover,
+.color_offblue #main-slide .carousel-indicators li.active, #main-slide .carousel-indicators li:hover
+{
+	background:#1abc9c;
+	 
+}
+ 
+ 
+/** font color **/
+
+.color_offblue .about_details h2,
+.color_offblue .about_details h3 span,
+.color_offblue .object h2,
+.color_offblue .single_service i,
+.color_offblue .testimonial-slide .testimonial-text:before,
+.color_offblue .testimonial-slide .testimonial-text:after,
+.color_offblue .post-meta a:hover,
+.color_offblue .info_icon i,
+.color_offblue .team_phone h4,    
+.color_offblue  .post-meta a, 
+.color_offblue  ul.navbar-nav > li.active > a,
+.color_offblue  .singel_team:hover .team_title h2
+ 
+{
+  color:#1abc9c;
+}
+ 
+ 
+.color_offblue .single_service:hover i,
+.color_offblue .header-bgnone ul.navbar-nav > li:hover > a, .header-bgnone ul.navbar-nav > li.active > a
+ 
+{
+  color:#fff;
+}
+ 
+ 
+/*** border color **/
+.color_offblue .isotope-nav ul li a,
+.color_offblue .single_service i,
+.color_offblue .singel_team:hover,
+.color_offblue .singel_team:hover .team_title h2,
+.color_offblue .singel_team:hover img,
+.color_offblue .info_icon i,
+.color_offblue .about_img.ver-2,
+.color_offblue .copy_right,
+.color_offblue .copy_right,
+.color_offblue .singel_team.single_img_V2:hover .img-hexagon
+ 
+{
+	border-color:#1abc9c;
+}
+ 
+.color_offblue .single_service:hover i,
+.color_offblue .single_service i:hover,
+.color_offblue .btn.btn-primary.solid,
+.color_offblue .img-hexagon:hover,
+.color_offblue .singel_team.single_img_V2:hover img
+{
+	border-color:#fff;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
